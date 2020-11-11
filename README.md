@@ -1,0 +1,2 @@
+# Python-Key-scripts
+Python-short-script  Updated 1 minute ago I just created Python Short Script that is based on key functions to be used for a large project in Python. I used the following Python libraries: Numpy, Scipy, Pandas, Seaborn, Matplotlib, The example of such short Python script include read and visualize CSV, excel file, connectivity with various databases (MySQL, MS Access, MS SQL Server, Mongodb, etc., how to use various data structures like arrays, sets, and datasets, use of user defined public functions, etc
